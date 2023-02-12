@@ -1,0 +1,46 @@
+[
+    {
+        "id":1,
+        "name":"Software Testing Specialist",
+        "description":"Manual Testing,Java Foundation,Mobile Testing Automation Testing,Selenium IDE, Seleniuem Web driver,Selenium Advanced",
+        "image": "https:luminartechnolabbucket.s3.ap-south-1.amazonaws.com/fe964743-1e77-427b-aab2-274f850b0e70-asset-1.svg",
+        "fee":25000
+    
+    },
+    {
+        "id":2,
+        "name":"MEA(R)N Stack Web Development Expert - Angular & React",
+        "description":"HTML, CSS, Bootstrap, Javascript, Typescript,Git, Angular, React.js, Node.js, Express.js & MongoDB",
+        "image":"https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c678b72e-d125-46c0-8598-30c0f1989d2b-Group%201.svg",
+        "fee":31500
+    },
+    {
+        "id":3,
+        "name":"Data Science - ML - AI - Big Data with Cloud & TABLEAU",
+        "description":"Manual Testing,Java Foundation,MobileTesting Automation Testing,Selenium IDE,Seleniuem Web driver,Selenium Advanced",
+        "image":"https:luminartechnolabbucket.s3.ap-south-1.amazonaws.com/b329bfb7-fbc1-4623-bfa2-1ee94814efe4-asset-2.svg",
+        "fee":40500
+    },
+    {
+        "id":4,
+        "name":"Python Django - Angular- Full Stack Web Development Expert",
+        "description":"HTML, CSS, Bootstrap, Javascript, Typescript,Git, Angular, React.js, Node.js, Express.js & MongoDB",
+        "image":"https://luminartechnolabbucket.s3.amazonaws.com/8f1944da-45af-4b90-a4c7-eb201a510432-python-svgrepo-com-2.svg",
+        "fee":40500
+    },
+    {
+        "id":5,
+        "name":"Asp.net MVC with Angular - Full Stack",
+        "description":"Manual Testing,Java Foundation,MobileTesting Automation Testing,Selenium IDE,Seleniuem Web driver,Selenium Advanced",
+        "image":"https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/fba6e2b7-cbef-4864-9aa2-8d42b615a363-1797049.png",
+        "fee":35500
+    },
+    {
+        "id":6,
+        "name":"Android Developer Expert Training In Kochi- Flutter",
+        "description":"Manual Testing,Java Foundation,MobileTesting Automation Testing,Selenium IDE,Seleniuem Web driver,Selenium Advanced",
+        "image":"https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c678b72e-d125-46c0-8598-30c0f1989d2b-Group%201.svg",
+        "fee":30500
+    }
+
+]
